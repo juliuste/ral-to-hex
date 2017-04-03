@@ -1,0 +1,29 @@
+{
+	"name": "ral-to-hex",
+	"description": "Convert RAL color codes to HEX.",
+	"version": "0.0.0",
+	"keywords": [
+		"color",
+		"colour",
+		"RAL",
+		"HEX",
+		"convert"
+	],
+	"author": "Julius Tens <mail@juliustens.de>",
+	"homepage": "https://github.com/juliuste/ral-to-hex",
+	"repository": "juliuste/ral-to-hex",
+	"bugs": "https://github.com/juliuste/ral-to-hex/issues",
+	"main": "index.js",
+	"files": ["index.js", "colours.json"],
+	"dependencies": {
+	},
+	"devDependencies": {
+		"tape": "^4.6.3"
+	},
+	"scripts": {
+		"test": "node test.js",
+		"prepublish": "npm test"
+	},
+	"engines": {"node": ">=6"},
+	"license": "MIT"
+}
