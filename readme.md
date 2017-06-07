@@ -1,5 +1,7 @@
 # ral-to-hex
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/juliuste/ral-to-hex.svg)](https://greenkeeper.io/)
+
 Convert RAL colour codes to HEX codes. Data taken from [this gist](https://gist.github.com/lunohodov/1995178).
 
 [![npm version](https://img.shields.io/npm/v/ral-to-hex.svg)](https://www.npmjs.com/package/ral-to-hex)
