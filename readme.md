@@ -4,9 +4,11 @@ Convert RAL colour codes to HEX codes. Data taken from [this gist](https://gist.
 
 [![npm version](https://img.shields.io/npm/v/ral-to-hex.svg)](https://www.npmjs.com/package/ral-to-hex)
 [![Build Status](https://travis-ci.org/juliuste/ral-to-hex.svg?branch=master)](https://travis-ci.org/juliuste/ral-to-hex)
+[![Greenkeeper badge](https://badges.greenkeeper.io/juliuste/ral-to-hex.svg)](https://greenkeeper.io/)
 [![dependency status](https://img.shields.io/david/juliuste/ral-to-hex.svg)](https://david-dm.org/juliuste/ral-to-hex)
 [![dev dependency status](https://img.shields.io/david/dev/juliuste/ral-to-hex.svg)](https://david-dm.org/juliuste/ral-to-hex#info=devDependencies)
 [![license](https://img.shields.io/github/license/juliuste/ral-to-hex.svg?style=flat)](LICENSE)
+[![chat on gitter](https://badges.gitter.im/juliuste.svg)](https://gitter.im/juliuste)
 
 ## Installation
 
