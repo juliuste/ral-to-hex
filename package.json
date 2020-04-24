@@ -18,7 +18,7 @@
 	"dependencies": {
 	},
 	"devDependencies": {
-		"tape": "^4.6.3"
+		"tape": "^5.0.0"
 	},
 	"scripts": {
 		"test": "node test.js",
